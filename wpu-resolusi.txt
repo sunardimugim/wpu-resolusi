@@ -1,3 +1,5 @@
 WPU RESOLUSI
 -konsisten untuk membuat konten
 -membuat project web
+-membuat ecomerce
+-membuat game
